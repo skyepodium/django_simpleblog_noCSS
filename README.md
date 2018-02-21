@@ -1,4 +1,4 @@
-# django_simpleblog_withCSS
+# django_simpleblog_noCSS
 > Work In Process (CSS를 어떻게 강의할까 생각 중)
 
 ## 개요  
